@@ -1,7 +1,7 @@
-### Olá! Meu nome é Marcos Donaciano Teixeira Júnior e sou um desenvolvedor full stack em formação. 
+### Olá! Meu nome é Marcos Donaciano Teixeira Júnior. Sou um Desenvolvedor Full Stack. 
 
 Olá! Se você chegou até aqui é porque tem interesse em me conhecer e saber um pouco mais sobre o meu trabalho. <br>
-Meu nome é Marcos, sou tecnólogo em Jogos Digitais e desenvolvedor full stack em formação pela Cubos Academy. <br>
+Meu nome é Marcos, sou Tecnólogo em Jogos Digitais e Desenvolvedor Full Stack formado pela Cubos Academy. <br>
 
 Sou apaixonado por tecnologia desde pequeno, quando tive acesso ao meu primeiro computador com meus 5 anos de idade <br>
 e desde lá trilhei uma verdadeira jornada pelo sonho de um dia trabalhar na área de TI. <br>
